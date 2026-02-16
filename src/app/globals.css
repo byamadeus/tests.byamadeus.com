@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-noto-sans);
+}
+
+body {
+  color: #ededed;
+  font-family: Noto Sans, Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  min-height: 100vh;
+  /* randomize background color on load, specifyicaly between dark blue, dark green, dark pink, dark yellow, dark beige, dark orange, dark red */
+  background: var(--bg-color, #1a1a2e);
+  }
