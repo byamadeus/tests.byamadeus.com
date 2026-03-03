@@ -207,7 +207,7 @@ const showcaseCaseStudy = (
     </CSBody>
 
     <CSImage
-      src="/assets/cs-images/demoday/finish.jpg"
+      src="/assets/cs-images/demoday/finish.jpeg"
       alt="Echo prototype showing the listening interface"
       caption="Our full booth setup, from product to interface, branded."
     />
@@ -217,7 +217,7 @@ const showcaseCaseStudy = (
       bold ideas, and big impact.
     </CSBody>
     <CSImage
-      src="/assets/cs-images/demoday/spread.jpg"
+      src="/assets/cs-images/demoday/spread.jpeg"
       alt="Echo prototype showing the listening interface"
       caption="Takeaways for the audience."
     />
@@ -225,7 +225,7 @@ const showcaseCaseStudy = (
       Every touchpoing was accounted for in the process, to create a cohesive experience that felt like a world. We wanted to show the potential of the product, and create an experience that felt alive, and full of personality.
     </CSBody>
     <CSImage
-      src="/assets/cs-images/demoday/close.jpg"
+      src="/assets/cs-images/demoday/close.jpeg"
       alt="Echo prototype showing the listening interface"
       caption="Wizard of Oz prototype"
     />
@@ -234,7 +234,7 @@ const showcaseCaseStudy = (
       This allowed us to give the experience of our product, while accounting for the limitations of the space and our prototypes.
     </CSBody>
     <CSImage
-      src="/assets/cs-images/demoday/pillars.jpg"
+      src="/assets/cs-images/demoday/pillars.jpeg"
       alt="Echo prototype showing the listening interface"
       caption="Final shot of the showcase — our two main product pillars."
     />
