@@ -51,9 +51,6 @@ interface CSToolsProps {
 export function CSTools({ tools }: CSToolsProps) {
   return (
     <div className="flex flex-wrap items-center gap-2 mb-10">
-      <span className="text-xs font-medium text-gray-400 uppercase tracking-widest mr-1">
-        Tools
-      </span>
       {tools.map((tool) => (
         <a
           key={tool.name}
@@ -201,6 +198,8 @@ export function CSVideo({ muxPlaybackId, title, caption }: CSVideoProps) {
           metadata={{ video_title: title }}
           style={{ width: "100%", aspectRatio: "16/9" }}
           streamType="on-demand"
+          autoPlay="muted"
+                loop
           accentColor="#111111"
         />
       </div>
